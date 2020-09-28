@@ -2,6 +2,10 @@
 
 I am Dasha.
 
+## Check me out
+
+[github](https://github.com/dashahello)
+
 ## What I like and or do
 
 - JavaScript (es7+)
