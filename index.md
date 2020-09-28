@@ -2,10 +2,6 @@
 
 I am Dasha.
 
-## Check me out
-
-[github](https://github.com/dashahello)
-
 ## What I like and or do
 
 - JavaScript (es7+)
@@ -16,3 +12,7 @@ I am Dasha.
 - HTML
 - CSS
 - Encryption
+
+## Check me out
+
+[github](https://github.com/dashahello)
