@@ -15,7 +15,7 @@ I am Dasha.
 
 ## Check me out
 
-[github](https://github.com/dashahello)
+[github.com/dashahello](https://github.com/dashahello)
 
 ## Projects
 
