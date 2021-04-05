@@ -19,4 +19,4 @@ I am Dasha.
 
 ## Projects
 
-- [bup](https://dashahello.github.io/bup/)
+- [bup](https://dashahello.github.io/bup/) [github](https://github.com/dashahello/bup)
